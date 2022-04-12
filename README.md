@@ -1,5 +1,5 @@
 # Ranker
-To run ranking:
+To run ranking in cmd console or windows powershell, enter:
 python main.py ranking -o " " -r " " -m " "
 
 -o: Location of the csv files of dataset named "dataset" 1 to 25, example: dataset1.csv
